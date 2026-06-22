@@ -214,5 +214,5 @@ This system can handle support queries such as:
 
 ## Author
 
-**Zalak Talreja**
+**Divyam Talreja**
 AI / Data / Business Analyst
