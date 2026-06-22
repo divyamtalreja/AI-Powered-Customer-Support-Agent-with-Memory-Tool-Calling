@@ -124,25 +124,21 @@ SupportCopilot Orchestrator
 
 ![Create Ticket](1.3.png)
 
-### Ticket Successfully Created
-
-![Ticket Created](2.4.png)
-
 ### Ticket Management Dashboard
 
-![Ticket Dashboard](1.5.png)
+![Ticket Dashboard](2.4.png)
 
 ### Generated AI Draft
 
-![Generated Draft](1.6.png)
+![Generated Draft](1.5.png)
 
 ### Memory Probe
 
-![Memory Probe](1.2.png)
+![Memory Probe](2.4.png)
 
-### Dark Theme UI
+###  LIght Theme UI
 
-![Dark Theme UI](1.1.png)
+![Dark Theme UI](1.3.png)
 
 ---
 
