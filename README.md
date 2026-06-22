@@ -113,5 +113,4 @@ docker compose up --build
 ---
 
 ## Author
-
-Built as an AI-powered support automation system using modern LLM orchestration and retrieval pipelines.
+Developed by Divyam Talreja
